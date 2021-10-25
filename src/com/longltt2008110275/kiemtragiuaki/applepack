@@ -1,0 +1,20 @@
+/*
+*   creater date: Oct 25,2021
+*   author: cgm
+*/
+package com.longltt2008110275.kiemtragiuky;
+
+public class apple(
+    private int id;
+
+    public double khoiLuong;
+    
+    public String mauSac;
+
+    
+    void inThongTin(){
+        System.out.println("Id: " + Id + " khối lượng: " + khoiLuong + " màu sắc" + mauSac);
+    }
+
+
+)
